@@ -3,58 +3,72 @@ cloud-foundry-developer-headstart
 
 Based on "Cloud Foundry Developer Training" see attached file
 
-## AN INTRODUCTION TO CLOUD FOUNDRY
+## 1. AN INTRODUCTION TO CLOUD FOUNDRY
 ● Evolution of Cloud Architectures
+
 ● Industry Trends
+
 ● Cloud Foundry
 
-## LOGGING, SCALE AND HA
+## 2. LOGGING, SCALE AND HA
 ● Cloud Native Apps
+
 ● Elastic Runtime Architecture
+
 ● High Availability
 
-## SERVICES
+## 3. SERVICES
 ● Cloud Native Apps
+
 ● Managed Services
+
 ● User Provided Service Instances
 
-## MANIFESTS
+## 4. MANIFESTS
 ● Using Manifests
 
-## APPLICATION SECURITY GROUPS
+## 5. APPLICATION SECURITY GROUPS
 ● Managing Application Security Groups
 
-## LOG DRAINING
+## 6. LOG DRAINING
 ● Cloud Native Apps
+
 ● Loggregator Review
 
-## BLUE-GREEN DEPLOYMENTS
+## 7. BLUE-GREEN DEPLOYMENTS
 ● Blue-Green Routing
+
 ● Implications App Design
 
-## MICROSERVICES
+## 8. MICROSERVICES
 ● The Monolith
+
 ● Microservices
 
-## BUILDPACKS
+## 9. BUILDPACKS
 ● Buildpack API
 
-## SERVICE BROKERS
+## 10. SERVICE BROKERS
 ● Service Broker API
 
-## CONTINUOUS DELIVERY
+## 11. CONTINUOUS DELIVERY
 ● Continuous Delivery Defined
+
 ● How Cloud Foundry Enables Continuous Delivery
 
-## ROUTE SERVICE
+## 12. ROUTE SERVICE
 ● Purpose
+
 ● Request Flow
 
-## ADVANCED TOPICS
+## 13. ADVANCED TOPICS
 ● TCP Routing
+
 ● Cascading failure
+
 ● Distributed tracing
 
-## SECURITY
+## 14. SECURITY
 ● Securing applications with UAA and OAuth2
+
 ● Using route services for authentication
