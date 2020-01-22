@@ -5,6 +5,8 @@ Based on "Cloud Foundry Developer Training" see attached file
 
 And "Cloud Foundry for Developers" at https://learn.rscale.io/
 
+See also "Cloud Foundry CLI Cheat Sheet" at https://www.altoros.com/visuals/cloud-foundry-cli-cheat-sheet/
+
 ## 1. AN INTRODUCTION TO CLOUD FOUNDRY
 ● Evolution of Cloud Architectures
 
