@@ -3,6 +3,8 @@ cloud-foundry-developer-headstart
 
 Based on "Cloud Foundry Developer Training" see attached file
 
+And "Cloud Foundry for Developers" at https://learn.rscale.io/
+
 ## 1. AN INTRODUCTION TO CLOUD FOUNDRY
 ● Evolution of Cloud Architectures
 
